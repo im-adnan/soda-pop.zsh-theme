@@ -125,7 +125,7 @@ The appearance of the prompt can be adjusted by modifying the variables in the `
 
 - The Git prompt is asynchronous by default, so it shouldn't slow down the shell. However, untracked file detection might still take time. See `man git-status`, Section `--untracked-files` for ways to speed things up if necessary.
 
-# Third-Party Credits
+# CREDITS
 
 This theme incorporates logic and structures from the following open-source projects. In accordance with their MIT Licenses, their copyright notices are preserved below.
 
